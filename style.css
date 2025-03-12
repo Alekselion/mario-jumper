@@ -1,0 +1,7 @@
+#gameCanvas {
+  display: block;
+  margin: 0 auto;
+  background-image: url("imgs/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
